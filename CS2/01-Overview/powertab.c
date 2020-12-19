@@ -26,7 +26,8 @@ static int RaiseIntToPower(int n, int k);
 
 int main(void)
 {
-    int n; 
+    int n;
+    
     printf("      |    2  |     N\n");
     printf("   N  |   N   |    2\n");
     printf("------+-------+------\n");
